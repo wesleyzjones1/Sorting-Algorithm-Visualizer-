@@ -19,3 +19,9 @@ comparisons and swaps made during the sorting process.
 The web application's interface is designed to dynamically update and reflect the changes happening within the sorting algorithms, giving users a clear visualization of how each algorithm 
 works and the differences in their approaches to sorting data. Overall, the project serves as an educational tool to help users comprehend the inner workings of various sorting algorithms
 and their respective efficiencies.
+
+![MergeSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/73d6ac80-bb41-4362-acef-11d1d45b2d1d)
+![QuickSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/f2a3e16f-180d-484a-aa3a-a2030951dff4)
+![SelectionSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/ca75ac6d-983e-494b-918b-19ef97f15432)
+![InsertionSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/f4fdda10-49f9-4e27-8c15-ec30aa4cce71)
+![UnsortedArray](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/fa9b4ebc-cb64-4312-b5a8-c48fce07820f)
