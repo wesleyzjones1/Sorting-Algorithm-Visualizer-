@@ -1,4 +1,6 @@
-#Sorting Algorithm Visualizer
+# Sorting Algorithm Visualizer
+
+![BubbleSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/110041a0-9353-4649-be4d-ae295d4e7b27)
 
 Wesley Jones
 11/6/2023
