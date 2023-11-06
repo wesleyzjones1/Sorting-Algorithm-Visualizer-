@@ -20,13 +20,18 @@ The web application's interface is designed to dynamically update and reflect th
 works and the differences in their approaches to sorting data. Overall, the project serves as an educational tool to help users comprehend the inner workings of various sorting algorithms
 and their respective efficiencies.
 
-![MergeSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/73d6ac80-bb41-4362-acef-11d1d45b2d1d)
 Merge Sort
-![QuickSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/f2a3e16f-180d-484a-aa3a-a2030951dff4)
+![MergeSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/73d6ac80-bb41-4362-acef-11d1d45b2d1d)
+
 Quick Sort
-![SelectionSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/ca75ac6d-983e-494b-918b-19ef97f15432)
+![QuickSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/f2a3e16f-180d-484a-aa3a-a2030951dff4)
+
 Selection Sort
-![InsertionSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/f4fdda10-49f9-4e27-8c15-ec30aa4cce71)
+![SelectionSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/ca75ac6d-983e-494b-918b-19ef97f15432)
+
 Insertion Sort
-![UnsortedArray](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/fa9b4ebc-cb64-4312-b5a8-c48fce07820f)
+![InsertionSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/f4fdda10-49f9-4e27-8c15-ec30aa4cce71)
+
 Unsorted Array
+![UnsortedArray](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/fa9b4ebc-cb64-4312-b5a8-c48fce07820f)
+
