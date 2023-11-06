@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welsey Jones Sorting Algorithm Visualizer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="settings.css">
+</head>
+<header>
+    <h1 class="fst-italic" style="text-align: center; padding-bottom: 10px;">Sorting Algorithms</h1>
+    <nav>
+        
+        
+            
+            <!-- create buttons-->
+            <div class="col gap-2 d-sm-flex justify-content-center">
+                <button type="button" class="btn btn-outline-primary btn-light btn-lg bubbleSort">Bubble Sort</button>
+                <button type="button" class="btn btn-outline-primary btn-light btn-lg insertionSort">Insertion Sort</button>
+                <button type="button" class="btn btn-outline-primary btn-light btn-lg selectionSort">Selection Sort</button>
+                
+                <button type="button" class="btn btn-outline-primary btn-light btn-lg quickSort">Quick Sort</button>
+                <button type="button" class="btn btn-outline-primary btn-light btn-lg mergeSort">Merge Sort</button>
+                <button type="button" class="btn btn-outline-light btn-dark btn-lg newArray">New Array</button>
+            </div>
+            
+            <!-- create sliders-->
+            <div class="col-2 d-sm-flex justify-content-center text-white">
+                <div class="row" id="input">
+                    <span id="size" style="display: flex; align-items: center;">
+                        <h4 style="margin-right: 45px;">Size:</h4>
+                        <input id="arr_size" type="range" min="4" max="100" step="1" value="50" style="width: 80%;">
+                    </span>
+            
+                    <span id="speed" style="display: flex; align-items: center;">
+                        <h4 style="margin-right: 20px;">Speed:</h4>
+                        <input id="speed_input" type="range" min="1" max="500" step="1" value="300" style="width: 80%;">
+                    </span>
+                </div>
+            </div>
+            
+            
+    </nav>
+</header>
+<body class="p-3 mb-2 text-white">
+    
+    <!-- create bars element that will be filled with elements from array-->
+    <div id="bars" class="flex-container"></div>
+
+    <!-- Sorting Algorithms-->
+    <script src="JavaScript\bubbleSort.js"></script>
+    <script src="JavaScript\insertionSort.js"></script>
+    <script src="JavaScript\selectionSort.js"></script>
+    <script src="JavaScript\quickSort.js"></script>
+    <script src="JavaScript\mergeSort.js"></script>
+
+    <!-- Sorting Controller-->
+    <script src="JavaScript\sortingMain.js"></script>
+    
+    <!-- show the efficiency of each algorithm-->
+    <div class="row-4 d-sm-flex justify-content-center" style="text-align: center; font-size: 30px; margin-top: 20px;">
+    
+        <div id="compareCount" style="margin-right: 20px;">Number of comparisons: </div>
+        <div id="swapCount" style="margin-left: 20px;">Number of swaps: </div>
+    
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+    </body>
+</html>
