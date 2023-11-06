@@ -1,3 +1,5 @@
+#Sorting Algorithm Visualizer
+
 Wesley Jones
 11/6/2023
 Sorting Algorithm Visualizer 
