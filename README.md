@@ -2,11 +2,7 @@
 
 ![BubbleSort](https://github.com/wesleyzjones1/Sorting-Algorithm-Visualizer-/assets/150078990/110041a0-9353-4649-be4d-ae295d4e7b27)
 
-Wesley Jones
-11/6/2023
-Sorting Algorithm Visualizer 
-
-The project is a web-based Sorting Algorithm Visualizer that allows users to observe and understand how different sorting algorithms work by visually representing the sorting process. 
+This project is a web-based Sorting Algorithm Visualizer that allows users to observe and understand how different sorting algorithms work by visually representing the sorting process. 
 It provides a user-friendly interface where users can interact with various sorting algorithms, such as Bubble Sort, Insertion Sort, Selection Sort, Quick Sort, and Merge Sort.
 
 Upon loading the web application, the user is presented with an array of bars, each representing a numerical value. The height of each bar corresponds to the value it represents. 
